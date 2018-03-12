@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Navpreet Kaur Pizza Order App</string>
+    <string name="pizza_order">Pizza Order</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="select_the_size">Select the Size:</string>
+    <string name="select_toppings">Select toppings:</string>
+    <string name="small_9">Small $9</string>
+    <string name="large_11">Large $11</string>
+    <string name="medium_10">Medium $10</string>
+    <string name="meet_2">Meet $2</string>
+    <string name="cheese_2">Cheese $2</string>
+    <string name="veggies_2">Veggies $2</string>
+    <string name="delivery_required">Delivery Required??</string>
+    <string name="yes">Yes</string>
+    <string name="total_price">Total Price ::</string>
+    <string name="delivery_note"></string>
+    <string name="enter_address">Enter Address</string>
+    <string name="address">Address</string>
+
+
+</resources>
